@@ -1,0 +1,130 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.pimg1 {
+  background-image: url(./Images/L_235705.jpg);
+  min-height: 100%;
+}
+.pimg2 {
+  background-image: url(./Images/1_Bo0TnfPCNTMx4mlX2F7LQw.jpg);
+  min-height: 650px;
+}
+
+.pimg2_1{
+  background-image: url(./Images/d6b29241-city-44818-166a7453734.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+
+.pimg2_2{
+  background-image: url(./Images/Kerala_Varkala_The-mesmerising-Varkala-beach_IWPL1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+
+.pimg2_3{
+  background-image: url(./Images/kumarakom.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+
+.pimg2_4{
+  background-image: url(./Images/psx-20170319-125048-largejpg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+
+.pimg2_5{
+  background-image: url(./Images/38.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+
+.pimg2_6{
+  background-image: url(./Images/thekkady.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+.pimg2_7{
+  background-image: url(./Images/Best-Places-to-Visit-in-Kovalam-Kerala.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+.pimg2_8{
+  background-image: url(./Images/images.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+.pimg2_9{
+  background-image: url(./Images/thrissur-pooram-festival.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+
+.pimg1,
+.pimg2,
+.pimg2_1,
+.pimg2_2,
+.pimg2_3,
+.pimg2_4,
+.pimg2_5,
+.pimg2_6,
+.pimg2_7,
+.pimg2_8,
+.pimg2_9
+ {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.textBg {
+  background: #020202;
+  color: #fff;
+  padding: 20px;
+  border-radius: 20%;
+}
+
+.section {
+  padding: 50px 80px;
+  text-align: center;
+}
+.section-light {
+  background-color:  #282e34;
+  color:#f4f4f4 ;
+  /* background-color: #f4f4f4;
+  color: #666; */
+}
+
+.section-dark {
+  background-color: #282e34;
+  color: #ddd;
+}
